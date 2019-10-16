@@ -47,9 +47,9 @@ import java.util.Map;
  */
 public class Demo {
     //APP KEY
-    private final static String APP_KEY = "27913031";
+    private final static String APP_KEY = "";
     // APP密钥
-    private final static String APP_SECRET = "c238734366dab02863b0272b1d22ac7b";
+    private final static String APP_SECRET = "";
     //API域名
     private final static String HOST = "api.link.aliyun.com";
     //自定义参与签名Header前缀（可选,默认只有"X-Ca-"开头的参与到Header签名）
