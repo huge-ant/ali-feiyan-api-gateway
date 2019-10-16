@@ -1,2 +1,2 @@
 # api-gateway-demo-sign-java
-aliyun api gateway request signature demo by java
+飞燕平台验签  请使用demo中的方法
